@@ -1,6 +1,7 @@
 功能说明:
 
 文本输入,图片上传,图片在线管理,涂鸦,视频上传等都可以完美使用
+![image](https://github.com/xindong888/yii2ueditor/blob/master/pic.png?raw=true)
 
 使用说明:
 
